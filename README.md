@@ -1,4 +1,4 @@
-## Install Instruction
+## Krashak Sarathi Ecommerce
 
 ### `Login Credentials  `
 email: admin@demo.com<br/>
@@ -26,9 +26,3 @@ REACT_APP_FIREBASE_STORAGE_BUCKET = ""<br/>
 REACT_APP_FIREBASE_MESSAGING_SENDER_ID = ""<br/>
 REACT_APP_FIREBASE_APP_ID = ""<br/>
 REACT_APP_FIREBASE_MEASUREMENT_ID = ""<br/>
-
-## Troubleshooting
-
-In case firebase db is not working replace it with the sample data. <br/>
-
-Redirect to commit - "Replaced sample data with Db products data on home container"<br/>
